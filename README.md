@@ -5,23 +5,27 @@ The Retail Sales and Profit Dashboard is an interactive Power BI project designe
 It helps businesses monitor revenue growth, customer engagement, and profit contribution while making data-driven decisions.
 
 Key Metrics
+
 Total Revenue : Total sales generated across all months and countries
 Total Orders : Number of orders placed by customers
 Total Customers : Count of unique customers who purchased
 Average Rating : Average product rating across all categories
 
 Visualizations
+
 Total Revenue by Month – Displays monthly sales performance trends
 Average Rating by Feedback – Analyzes customer satisfaction levels
 Total Orders by Product Category – Compares order volumes across categories
 
 Cards
+
 Total Revenue :	Shows overall retail sales in monetary value
 Total Orders :	Displays total orders placed
 Total Customers : Indicates total customer base
 Average Rating : Shows customer satisfaction through average rating scores
 
 Filters
+
 Interactive slicers used for dynamic exploration:
 Month: Select specific months to view time-based performance.
 Product Category: Filter by category to see category-wise results.
@@ -41,6 +45,7 @@ Interact Dynamically:
 Click on charts or data points to highlight related metrics and uncover deeper insights across the dashboard.
 
 Conclusion
+
 This Retail Sales and Profit Dashboard serves as a powerful analytical tool for understanding business performance across products and regions.
 It enables decision-makers to track key metrics like sales, profit, and customer satisfaction, thereby improving strategy and resource allocation.
 
