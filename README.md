@@ -7,27 +7,37 @@ It helps businesses monitor revenue growth, customer engagement, and profit cont
 Key Metrics
 
 Total Revenue : Total sales generated across all months and countries
+
 Total Orders : Number of orders placed by customers
+
 Total Customers : Count of unique customers who purchased
+
 Average Rating : Average product rating across all categories
 
 Visualizations
 
 Total Revenue by Month – Displays monthly sales performance trends
+
 Average Rating by Feedback – Analyzes customer satisfaction levels
+
 Total Orders by Product Category – Compares order volumes across categories
 
 Cards
 
 Total Revenue :	Shows overall retail sales in monetary value
+
 Total Orders :	Displays total orders placed
+
 Total Customers : Indicates total customer base
+
 Average Rating : Shows customer satisfaction through average rating scores
 
 Filters
 
 Interactive slicers used for dynamic exploration:
+
 Month: Select specific months to view time-based performance.
+
 Product Category: Filter by category to see category-wise results.
 
 Usage
