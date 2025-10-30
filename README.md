@@ -1,4 +1,4 @@
-# Retail_Sales_Dashboard-Power-BI
+# Retail_Sales_Dashboard-PowerBI
 **Introduction**
 
 The Retail Sales and Profit Dashboard is an interactive Power BI project designed to analyze sales performance, profitability, and customer insights across different countries and product categories.
