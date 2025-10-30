@@ -60,8 +60,3 @@ This Retail Sales and Profit Dashboard serves as a powerful analytical tool for 
 It enables decision-makers to track key metrics like sales, profit, and customer satisfaction, thereby improving strategy and resource allocation.
 
 Contact For any inquiries or support, please contact https://www.linkedin.com/in/athulyadileep1625/ or athulyadileep012@gmail.com
-
-
-Month: Select specific months (January–December) to view time-based performance.
-
-Product Category: Filter by category (Books, Grocery, Clothing, Home Decor, Electronics) to see category-wise results.
